@@ -1,5 +1,27 @@
 {
-  "logs": [],
+  "logs": [
+    {
+      "message": "good first issue",
+      "attention": false,
+      "tech": "Tushar",
+      "date": "2024-01-06T16:53:18.753Z",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "message": "hard drive fixed #002",
+      "attention": false,
+      "tech": "Prabal",
+      "date": "2024-01-06T17:25:31.515Z"
+    },
+    {
+      "message": "server crashed at 5000 #2212",
+      "attention": true,
+      "tech": "Shreyansh",
+      "date": "2024-01-06T17:04:59.774Z",
+      "id": 3
+    }
+  ],
   "techs": [
     {
       "id": 1,
